@@ -8,9 +8,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+As Personas do projeto foram construídas a partir de entrevistas individuais, suas histórias têm envolvimento tanto direto como indiretamente com o tema proposto para construção desse trabalho. Com as informações coletadas poderemos ter uma diversidade de visões no qual nos permitirá entender melhor cada usuário. Abaixo iremos relatar a história das pessoas entrevistadas.
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
