@@ -12,7 +12,7 @@ As Personas do projeto foram construídas a partir de entrevistas individuais, s
 
 **Jessica Alencar**
 <div align="left">
-<img src="https://user-images.githubusercontent.com/101758971/221326351-61e0f439-167b-49df-aef7-fa3350f54a9d.jpg)
+<img src="https://user-images.githubusercontent.com/101758971/221326351-61e0f439-167b-49df-aef7-fa3350f54a9d.jpg"
 " width="200px" />
 </div>
 
@@ -32,7 +32,7 @@ As Personas do projeto foram construídas a partir de entrevistas individuais, s
 
 **Paulo Santos**
 <div align="left">
-<img src="https://user-images.githubusercontent.com/101758971/221717969-dbc82442-8c9f-4c1d-ab83-13cb584717a1.jpg)" width="200px" />
+<img src="https://user-images.githubusercontent.com/101758971/221717969-dbc82442-8c9f-4c1d-ab83-13cb584717a1.jpg" width="200px" />
 </div>
 
 | Idade    | Ocupação  | Objetivo   | Dificuldades | História  | 
@@ -41,7 +41,7 @@ As Personas do projeto foram construídas a partir de entrevistas individuais, s
 
 **Joã Ricardo**
 <div align="left">
-<img src="https://user-images.githubusercontent.com/101758971/221720104-a5e982e0-c30d-4ad9-9786-fbc71b8cd827.svg)
+<img src="https://user-images.githubusercontent.com/101758971/221720104-a5e982e0-c30d-4ad9-9786-fbc71b8cd827.svg"
 " width="200px" />
 </div>
 
