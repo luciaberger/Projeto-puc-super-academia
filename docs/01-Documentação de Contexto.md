@@ -1,6 +1,8 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Nos últimos anos, estudos tem demonstrado a estreita influência da prática insuficiente de atividades físicas com problemas de saúde humana. Com isso, a população está cada vez mais consciente da importância de realizar exercício físico frequentemente e manter hábitos alimentares saudáveis no seu cotidiano. Entretanto, muitos educadores físicos enfrentam dificuldades para promover mudanças de comportamento relacionadas à atividade física em pessoas sedentárias e com pouco tempo disponível no dia a dia (SAMDAL et al., 2017). Nesse contexto, os avanços tecnológicos podem contribuir para reverter essa dificuldade através do uso de aplicativos móveis como grandes aliados visando intervenções nas atividades físicas (SANDERS et al., 2016). Pesquisas apontam que aproximadamente seis entre cada 10 usuários de smartphones já baixaram aplicativos relacionados à saúde (Gabbiadini e Greitemeyer, 2019)
+Esses aplicativos podem ser utilizados como ferramentas dinâmicas e práticas por educadores físicos que desejam criar planos de exercícios físicos para os seus alunos, com informações sobre tipo de exercício, número de repetições, e orientações de execução dos mesmos através de imagens ou filmes, entre outras funcionalidades. Nesse sentido, é fundamental a construção de aplicativos móveis que possibilitem a melhor comunicação entre educador físico e aluno, contribuindo para a obtenção de resultados satisfatórios referentes a qualidade de vida do aluno.
+
 
 ## Problema
 
@@ -8,7 +10,7 @@ Conforme exposto, o problema que se busca resolver com este projeto é como auxi
 Nesse contexto, a pesente aplicação será utilizada pelo educador físico para resolver o problema relacionado a dificuldade de elaborar e enviar treinos específicos de modo fácil e rápido para seus alunos.
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+
 
 
 > **Links Úteis**:
